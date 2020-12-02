@@ -1,4 +1,4 @@
-# EncurtadorURL
+# Encurtador de URL
 ## Sobre o projeto
 Encurtador de URL (CutLink) feito com React Native e Expo.
 ## Screenshots
